@@ -1,2 +1,2 @@
-# spring-rest-client-examples
+# Spring Rest Client Examples
 Spring Rest Client Example Project
